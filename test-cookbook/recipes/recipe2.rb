@@ -9,7 +9,7 @@
   end
 
   file '/myfile2' do
-  content "this is second recipe"
+  content "this is my recipe"
   action :create
 
   end
