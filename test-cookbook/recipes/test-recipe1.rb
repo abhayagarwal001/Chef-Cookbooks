@@ -5,7 +5,7 @@
 # Copyright:: 2022, The Authors, All Rights Reserved.
 #
   file '/myfile' do
-  content 'This is Abhay Learning Chef Tool !!'
+  content 'This is Abhay Learning Chef  !!'
   action :create
   end
 
